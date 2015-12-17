@@ -1,0 +1,10 @@
+﻿<Window x:Class="CockTailGuide.Post"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Post" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="Content" HorizontalAlignment="Left" Height="187" Margin="39,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="216" TextChanged="Content_TextChanged"/>
+        <Button x:Name="Share" Content="Button" HorizontalAlignment="Left" Margin="109,224,0,0" VerticalAlignment="Top" Width="75" Click="Share_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recipe title="Dry Martini">
+    <title>Dry Martini</title>
+    <type>Classic</type>
+    <ingredient quantity="2.5" measure="oz">Beefeater Gin</ingredient>
+    <ingredient quantity="0.5" measure="oz">Dry vermouth</ingredient>
+    <ingredient quantity="1" measure="dash">Orange Bitters</ingredient>
+    <ingredient quantity="2.5" measure="oz">Beefeater Gin</ingredient>
+    <step>Add Ingredients to Glass;Fill with Ice;Stir;Strain in to chilled Cocktail glass;Garnish with a lemon twist</step>
+    <glass>Cocktail</glass>
+    <garnish>1 Lemon Twist</garnish>
+    <strength>Strong</strength>
+    <preparation>Stirred</preparation>
+</recipe>

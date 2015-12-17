@@ -1,0 +1,8 @@
+﻿<Window x:Class="CockTailGuide.Authentication"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Authentication" Height="768" Width="1024">
+    <Grid>
+        <WebBrowser Name="WBrowser" Navigated="WBrowser_OnNavigated" />
+    </Grid>
+</Window>

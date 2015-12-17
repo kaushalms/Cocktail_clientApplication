@@ -1,0 +1,9 @@
+﻿<Window x:Class="CockTailGuide.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window5" Height="705.97" Width="940.299">
+    <Grid>
+        <WebBrowser x:Name="videoBrowser" HorizontalAlignment="Left" Height="655" Margin="10,10,0,0" VerticalAlignment="Top" Width="1380"/>
+
+    </Grid>
+</Window>

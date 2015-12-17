@@ -1,0 +1,162 @@
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe.config
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.pdb
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.DataGrid.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.xml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.App.config
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Play.baml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\View.baml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.baml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Play.g.cs
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\View.g.cs
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.g.cs
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\App.g.cs
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide_MarkupCompile.cache
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.g.resources
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.Properties.Resources.resources
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.GenerateResource.Cache
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.exe
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.pdb
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Window3.baml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Window3.g.cs
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csprojResolveAssemblyReference.cache
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\App.baml
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.dll
+c:\Users\Nanda Kumar Saladi\Documents\Visual Studio 2013\Projects\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Nanda Kumar Saladi\documents\visual studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Window4.baml
+C:\Users\Nanda Kumar Saladi\documents\visual studio 2013\Projects\CockTailGuide\CockTailGuide\obj\Debug\Window4.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe.config
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.pdb
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.DataGrid.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.Toolkit.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Newtonsoft.Json.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.xml
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.xml
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.xml
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.xml
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.App.config
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Play.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\View.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window3.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window4.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\App.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Play.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\View.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window3.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window4.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\App.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide_MarkupCompile.cache
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.g.resources
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.Properties.Resources.resources
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.GenerateResource.Cache
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.exe
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.pdb
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csprojResolveAssemblyReference.cache
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Facebook.dll
+G:\XML Project\CockTailGuide\CockTailGuide\bin\Debug\Facebook.xml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Authentication.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Authentication.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Post.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Post.g.cs
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window5.baml
+G:\XML Project\CockTailGuide\CockTailGuide\obj\Debug\Window5.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe.config
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.exe
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.pdb
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.exe
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\CockTailGuide.pdb
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Facebook.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Newtonsoft.Json.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\Facebook.xml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Extensions.xml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Formatting.xml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\System.Net.Http.Primitives.xml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\WpfAnimatedGif.xml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.App.config
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csprojResolveAssemblyReference.cache
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Authentication.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Play.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Post.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\View.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window3.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window4.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window5.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\App.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Authentication.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Play.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Post.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\View.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\MainWindow.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window3.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window4.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Window5.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\App.g.cs
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide_MarkupCompile.cache
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.g.resources
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.Properties.Resources.resources
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\CockTailGuide.csproj.GenerateResource.Cache
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Instructions.baml
+E:\XML\Project\v1\CockTailGuide\CockTailGuide\CockTailGuide\obj\Debug\Instructions.g.cs
